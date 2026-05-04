@@ -1,5 +1,3 @@
-//Palomino_Brayton - Turpo_Ademir
-
 import java.util.Scanner;
 
 public class VentaHelados {
@@ -7,6 +5,7 @@ public class VentaHelados {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
+        // Variables de configuración
         String[] sabores = {"Vainilla", "Chocolate", "Fresa", "Lúcuma"};
         double[] precios = {3.50, 4.00, 3.50, 5.00};
         
