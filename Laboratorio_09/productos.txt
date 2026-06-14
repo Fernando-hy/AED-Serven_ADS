@@ -1,0 +1,7 @@
+10001,Galletas Oreo 250g,1.5,15,3,🍪
+10002,Leche Entera 1L,0.9,20,1,🥛
+10003,Pan de Molde Blanco,2.2,15,2,🍞
+10004,Harina de Trigo 1kg,1.1,30,2,🌾
+10005,Manzanas Frescas 1kg,2.5,50,4,🍎
+10006,Detergente Líquido,3.5,10,5,🧼
+10007,fresas,3.0,10,4,🍓
